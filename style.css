@@ -7,3 +7,7 @@
 .info h3{
 text-align: center;
 }
+.info h4{
+   color: purple;
+   text-align: end;
+}
